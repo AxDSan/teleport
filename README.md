@@ -17,5 +17,6 @@ A tera-proxy module that lets you save a location and teleport back to it afterw
 - __!loc__ Teleport to your saved location.
 
 ## Credits
-1. [spaacecats](https://github.com/spaacecats/brooch-swap) _( Trigger Items Idea )_
-2. Supported and maintained by AxDSan
+1. [eemj](https://github.com/eemj) _(Original author of the Teleport Plugin)_
+2. [spaacecats](https://github.com/spaacecats/brooch-swap) _( Trigger Items Idea )_
+3. [AxDSan](https://github.com/AxDSan/teleport) _(current sole maintainer plugin)_
