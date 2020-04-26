@@ -1,5 +1,5 @@
 # Teleport
-A tera-proxy module that lets you save a location and teleport back to it afterwards.
+A TeraToolbox module that lets you save a location and teleport back to it afterwards.
 
 ## Usage
 
