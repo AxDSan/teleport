@@ -1,5 +1,5 @@
 {
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "disabled": false,
     "version": 1.1,
     "name": "Teleport",
@@ -11,6 +11,6 @@
         "reloadable": true,
         "settingsVersion": 1.0
     },
-    "servers": ["https://raw.githubusercontent.com/eemj/teleport/master/"],
-    "supportUrl": "https://github.com/eemj/teleport/issues"
+    "servers": ["https://raw.githubusercontent.com/AxDSan/teleport/master/"],
+    "supportUrl": "https://github.com/AxDSan/teleport/issues"
 }
